@@ -1,6 +1,2 @@
 # projects
-In this project i have worked upon the weather forecasting analysis. This project includes data cleaning using Pandas library in Python , data extraction using SQL and data visualization using Power BI.
-
-Conducted thorough analysis of historical weather data to identify patterns and trends, resulting in the development of more accurate prediction models.
-
-Created visually appealing and informative data visualizations using Power BI to effectively communicate complex weather patterns to diverse audiences, including meteorologists and stakeholders.
+Extracted real-world sales data from Kaggle using the Kaggle API and implemented a complete ETL (Extract, Transform, Load) pipeline. Performed extensive data cleaning and transformation in Jupyter Notebook using Pandas, and loaded the processed data into a MySQL database for structured analysis. Utilized SQL to derive key business metrics such as sales, profit, and regional performance. Finally, built an interactive Power BI dashboard to visualize revenue trends, top-selling products, and month-over-month growth, providing actionable insights into overall business performance.
