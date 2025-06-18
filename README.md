@@ -1,2 +1,2 @@
-# projects
+# Sales and revenue analysis
 Extracted real-world sales data from Kaggle using the Kaggle API and implemented a complete ETL (Extract, Transform, Load) pipeline. Performed extensive data cleaning and transformation in Jupyter Notebook using Pandas, and loaded the processed data into a MySQL database for structured analysis. Utilized SQL to derive key business metrics such as sales, profit, and regional performance. Finally, built an interactive Power BI dashboard to visualize revenue trends, top-selling products, and month-over-month growth, providing actionable insights into overall business performance.
